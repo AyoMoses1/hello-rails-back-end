@@ -103,7 +103,7 @@ To run the project, execute the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤**Rita Nkem Daniel**
+👤**Ayo Moses**
 
 - GitHub: [@AyoMoses1](https://github.com/AyoMoses1)
 - Twitter: [@AyoMoses](https://twitter.com/AyoMose71556683)
