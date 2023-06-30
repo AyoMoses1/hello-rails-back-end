@@ -27,7 +27,7 @@
 
 **[Greetings App Api]** is a simple api that responds with a random greeting object in json format
 
-- Link to [FrontEnd APP](https://github.com/RitaDee/react_ui.git)
+- Link to [FrontEnd APP](https://github.com/AyoMoses1/hello-react-front-end.git)
 
 ## 🛠 Built With <a name="built-with"></a>
 
